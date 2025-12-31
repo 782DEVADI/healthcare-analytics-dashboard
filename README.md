@@ -45,6 +45,3 @@ The goal is to convert raw healthcare data into executive-level insights through
 - Add predictive admission forecasting
 - Perform advanced patient segmentation
 - Improve dashboard performance optimization
-
-## 📸 Dashboard Preview
-![Dashboard](visuals/dashboard_preview.png)
