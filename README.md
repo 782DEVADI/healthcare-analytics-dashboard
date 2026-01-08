@@ -1,8 +1,8 @@
 # healthcare-analytics-dashboard                                                                            
 Healthcare financial & amp; patient analytics dashboard using Excel &amp; Power BI
-# 🏥 Healthcare Revenue & Patient Analytics Dashboard
+# 🏥 Healthcare Revenue & Patient Analytics Dashboard                                           
 
-**Author:** D Dev Aditya   
+**Author:** D Dev Aditya                                                          
 **Tools:** Excel, Power BI                                                                
 **Domain:  ** Healthcare Analytics                                                                                                                                    
                                                                                     
@@ -13,19 +13,19 @@ It focuses on patient admissions, billing revenue, insurance coverage, risk leve
 The goal is to convert raw healthcare data into executive-level insights through data cleaning, modeling, and interactive dashboarding.                 
                                                                                                                        
 ## 🧹 Data Preparation
-- Cleaned and standardized patient records                                                 
+- Cleaned and standardized patient records                                                                                              
 - Handled missing values and incorrect data types                                                                                                                                           
 - Created derived fields:                                                                      
-  - Admission Year, Month   
+  - Admission Year, Month                                       
   - Coverage %                                                                                                                                                                                                      
-  - Patient Paid                                                        
+  - Patient Paid                                                                                                      
   - Risk Level Segments                                                                          
 
 ## 📊 Key KPIs
 - Total Billing Revenue
 - Insurance Coverage vs Patient Payment
 - Admission Trends (2019–2024)
-- Revenue by Insurance Provider                                                       
+- Revenue by Insurance Provider                                                                                                      
 - Patient Risk Distribution                                                                   
 - Medical Condition Breakdown  
 
