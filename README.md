@@ -1,4 +1,4 @@
-# healthcare-analytics-dashboard                                                                                                                                                                                    
+# healthcare-analytics-dashboard                                                                                                                                                                                   
 Healthcare financial & amp; patient analytics dashboard using Excel &amp; Power BI
 # 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                     
 
@@ -34,14 +34,14 @@ The goal is to convert raw healthcare data into executive-level insights through
 - Revenue & financial performance tracking
 - Patient behavior and operational insights  
 - Executive-ready layout and visuals
-
-## 💡 Business Insights
+                                                 
+## 💡 Business Insights                                            
 - Identified major revenue contributors by insurance provider
-- Revealed high-risk patient cost patterns
+- Revealed high-risk patient cost patterns                                     
 - Highlighted long-term admission and revenue trends  
 - Supported data-driven healthcare decision making
 
 ## 🚀 Future Improvements
-- Add predictive admission forecasting
-- Perform advanced patient segmentation   
-- Improve dashboard performance optimization
+- Add predictive admission forecasting                   
+- Perform advanced patient segmentation                                    
+- Improve dashboard performance optimization                                 
