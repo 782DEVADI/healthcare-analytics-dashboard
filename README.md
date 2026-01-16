@@ -1,10 +1,10 @@
-# healthcare-analytics-dashboard                                                                                                                                                                                     
+# healthcare-analytics-dashboard                                                                                                                                                                                    
 Healthcare financial & amp; patient analytics dashboard using Excel &amp; Power BI
 # 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                     
 
 **Author:** D Dev Aditya                                                                                                                                                                                
 **Tools:** Excel, Power BI                                                                                                     
-**Domain:  ** Healthcare Analytics                                                                                                                                                                      
+**Domain:  ** Healthcare Analytics                                                                                                                                                                           
                                                                                     
 ## 📌 Project Overview                                                 
 This project analyzes healthcare operations and financial performance from 2019–2024.                                                                                                                                                                                                                                                                                                                                            
@@ -12,14 +12,14 @@ It focuses on patient admissions, billing revenue, insurance coverage, risk leve
                                                                          
 The goal is to convert raw healthcare data into executive-level insights through data cleaning, modeling, and interactive dashboarding.                                                                     
                                                                                                                        
-## 🧹 Data Preparation                                            
-- Cleaned and standardized patient records                                                                                              
-- Handled missing values and incorrect data types                                                                                                                                                                                                                                             
-- Created derived fields:                                                                                                           
-  - Admission Year, Month                                       
+## 🧹 Data Preparation                                                                         
+- Cleaned and standardized patient records                                                                                                                                
+- Handled missing values and incorrect data types                                                                                                                                                                                                                                                                     
+- Created derived fields:                                                                                                                               
+  - Admission Year, Month                                                                       
   - Coverage %                                                                                                                                                                                                       
   - Patient Paid                                                                                                                                                                 
-  - Risk Level Segments                                                                          
+  - Risk Level Segments                                                                                                                    
 
 ## 📊 Key KPIs                                                                       
 - Total Billing Revenue
