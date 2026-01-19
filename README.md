@@ -1,9 +1,9 @@
-# healthcare-analytics-dashboard                                                                                                                                                                          
+# healthcare-analytics-dashboard                                                                                                                                                                                     
 Healthcare financial & amp; patient analytics dashboard using Excel &amp; Power BI
 # 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                                                                                                                       
 **Author:** D Dev Aditya                                                                                                                                                                                
 **Tools:** Excel, Power BI                                                                                                                                      
-**Domain:  ** Healthcare Analytics                                                                                                                                                                        
+**Domain:  ** Healthcare Analytics                                                                                                                                                                            
                                                                                     
 ## 📌 Project Overview                                                 
 This project analyzes healthcare operations and financial performance from 2019–2024.                                                                                                                                                                                                                                                                                                                                            
