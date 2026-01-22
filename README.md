@@ -1,6 +1,6 @@
 # healthcare-analytics-dashboard                                                                                                                                                                                     
-Healthcare financial & amp; patient analytics dashboard using Excel &amp; Power BI
-# 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                                                                                                                       
+Healthcare financial & amp; patient analytics dashboard using Excel &amp; Power BI                                             
+# 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                                                                                                                                                           
 **Author:** D Dev Aditya                                                                                                                                                                                
 **Tools:** Excel, Power BI                                                                                                                                      
 **Domain:  ** Healthcare Analytics                                                                                                                                                                                
