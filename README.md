@@ -1,8 +1,8 @@
 # healthcare-analytics-dashboard                                                                                                                                                                                     
-Healthcare financial & amp; patient analytics dashboard using Excel &amp; Power BI                                             
-# 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                                                                                                                                                                                                       
+Healthcare financial & amp; patient analytics dashboard using Excel &amp; Power BI                                                                           
+# 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                                                                                                                                                                                                                           
 **Author:** D Dev Aditya                                                                                                                                                                                
-**Tools:** Excel, Power BI                                                                                                                                      
+**Tools:** Excel, Power BI                                                                                                                                                      
 **Domain:  ** Healthcare Analytics                                                                                                                                                                                
                                                                                     
 ## 📌 Project Overview                                                                    
