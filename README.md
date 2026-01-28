@@ -1,6 +1,6 @@
 # healthcare-analytics-dashboard                                                                                                                                                               
 Healthcare financial & amp; patient analytics dashboard using Excel &amp; Power BI                                                                           
-# 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                                                                                                                                                                                                                           
+# 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                                                                                                                                                                                                                                                          
 **Author:** D Dev Aditya                                                                                                                                                                                
 **Tools:** Excel, Power BI                                                                                                                                                      
 **Domain:  ** Healthcare Analytics                                                                                                                                                                                
@@ -15,7 +15,7 @@ The goal is to convert raw healthcare data into executive-level insights through
 - Cleaned and standardized patient records                                                                                                                                                               
 - Handled missing values and incorrect data types                                                                                                                                                                                                                                                                     
 - Created derived fields:                                                                                                                                                                            
-  - Admission Year, Month                                                                       
+  - Admission Year, Month                                                                                            
   - Coverage %                                                                                                                                                                                                       
   - Patient Paid                                                                                                                                                                 
   - Risk Level Segments                                                                                                                    
