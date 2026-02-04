@@ -1,9 +1,9 @@
 # healthcare-analytics-dashboard                                                                                                                                                               
-Healthcare financial & amp; patient analytics dashboard using Excel & amp; Power BI                                                                                                             
+Healthcare financial & amp; patient analytics dashboard using Excel & amp; Power BI                                                                                                                  
 # 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                                                                                                                                                                                                                                                             
 **Author:** D Dev Aditya                                                                                                                                                                                
-**Tools:** Excel, Power BI                                                                                                                                                      
-**Domain:  ** Healthcare Analytics                                                                                                                                                                                
+**Tools:** Excel, Power BI                                                                                                                                                                                    
+**Domain:  ** Healthcare Analytics                                                                                                                                                                      
                                                                                     
 ## 📌 Project Overview                                                                                                                                                                   
 This project analyzes healthcare operations and financial performance from 2019–2024.                                                                                                                                                                                                                                                                                                                                                 
@@ -25,19 +25,19 @@ The goal is to convert raw healthcare data into executive-level insights through
 - Insurance Coverage vs Patient Payment
 - Admission Trends (2019–2024)                                                                                                                                       
 - Revenue by Insurance Provider                                                                                                                               
-- Patient Risk Distribution                                                                   
+- Patient Risk Distribution                                                                                                                                        
 - Medical Condition Breakdown                                             
 
 ## 🖥️ Dashboard Features
 - Dynamic filters: Risk Level, Admission Year, Coverage %                                                                  
 - Revenue & financial performance tracking                               
 - Patient behavior and operational insights                                                                                                            
-- Executive-ready layout and visuals                                                                          
+- Executive-ready layout and visuals                                                                                                                       
                                                  
-## 💡 Business Insights                                                                                                                                                     
+## 💡 Business Insights                                                                                                                                                                                  
 - Identified major revenue contributors by insurance provider                                      
 - Revealed high-risk patient cost patterns                                                         
-- Highlighted long-term admission and revenue trends                                                                    
+- Highlighted long-term admission and revenue trends                                                                                                                                           
 - Supported data-driven healthcare decision making                                
 
 ## 🚀 Future Improvements                                                                     
