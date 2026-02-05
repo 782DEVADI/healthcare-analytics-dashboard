@@ -1,8 +1,8 @@
 # healthcare-analytics-dashboard                                                                                                                                                               
-Healthcare financial & amp; patient analytics dashboard using Excel & amp; Power BI                                                                                                                  
-# 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                                                                                                                                                                                                                                                             
+Healthcare financial & amp; patient analytics dashboard using Excel & amp; Power BI                                                                                                                                                                                  
+# 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 **Author:** D Dev Aditya                                                                                                                                                                                
-**Tools:** Excel, Power BI                                                                                                                                                                                    
+**Tools:** Excel, Power BI                                                                                                                                                                                  
 **Domain:  ** Healthcare Analytics                                                                                                                                                                      
                                                                                     
 ## 📌 Project Overview                                                                                                                                                                   
@@ -13,7 +13,7 @@ The goal is to convert raw healthcare data into executive-level insights through
                                                                                                                        
 ## 🧹 Data Preparation                                                                                                                                                                               
 - Cleaned and standardized patient records                                                                                                                                                               
-- Handled missing values and incorrect data types                                                                                                                                                                                                                                                                     
+- Handled missing values and incorrect data types                                                                                                                                                                                                                                                                                                                                      
 - Created derived fields:                                                                                                                                                                            
   - Admission Year, Month                                                                                            
   - Coverage %                                                                                                                                                                                                       
@@ -21,9 +21,9 @@ The goal is to convert raw healthcare data into executive-level insights through
   - Risk Level Segments                                                                                                                    
 
 ## 📊 Key KPIs                                                                       
-- Total Billing Revenue
-- Insurance Coverage vs Patient Payment
-- Admission Trends (2019–2024)                                                                                                                                       
+- Total Billing Revenue                                    
+- Insurance Coverage vs Patient Payment                                     
+- Admission Trends (2019–2024)                                                                                                                                                           
 - Revenue by Insurance Provider                                                                                                                               
 - Patient Risk Distribution                                                                                                                                        
 - Medical Condition Breakdown                                             
