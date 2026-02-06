@@ -33,12 +33,12 @@ The goal is to convert raw healthcare data into executive-level insights through
 - Revenue & financial performance tracking                               
 - Patient behavior and operational insights                                                                                                            
 - Executive-ready layout and visuals                                                                                                                       
-                                                 
+                                                                                                                                                                                             
 ## 💡 Business Insights                                                                                                                                                                                  
-- Identified major revenue contributors by insurance provider                                      
-- Revealed high-risk patient cost patterns                                                         
-- Highlighted long-term admission and revenue trends                                                                                                                                           
-- Supported data-driven healthcare decision making                                
+- Identified major revenue contributors by insurance provider                                                                                                                                        
+- Revealed high-risk patient cost patterns                                                                                                                                  
+- Highlighted long-term admission and revenue trends                                                                                                                                                     
+- Supported data-driven healthcare decision making                                                                                                                                          
 
 ## 🚀 Future Improvements                                                                     
 - Add predictive admission forecasting                                                       
