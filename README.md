@@ -6,14 +6,14 @@ Healthcare financial & amp; patient analytics dashboard using Excel & amp; Power
 **Domain:  ** Healthcare Analytics                                                                                                                                                                      
                                                                                     
 ## 📌 Project Overview                                                                                                                                                                   
-This project analyzes healthcare operations and financial performance from 2019–2024.                                                                                                                                                                                                                                                                                                                                          
+This project analyzes healthcare operations and financial performance from 2019–2024.                                                                                                                                                                                                                                                                                                                                           
 It focuses on patient admissions, billing revenue, insurance coverage, risk levels, and medical conditions.                                                                                                 
                                                                          
 The goal is to convert raw healthcare data into executive-level insights through data cleaning, modeling, and interactive dashboarding.                                                                         
                                                                                                                        
 ## 🧹 Data Preparation                                                                                                                                                                                
 - Cleaned and standardized patient records                                                                                                                                                               
-- Handled missing values and incorrect data types                                                                                                                                                                                                                                                                                                                                      
+- Handled missing values and incorrect data types                                                                                                                                                                                                                                                                                                                                                                                   
 - Created derived fields:                                                                                                                                                                            
   - Admission Year, Month                                                                                                                                                        
   - Coverage %                                                                                                                                                                                                       
@@ -32,13 +32,13 @@ The goal is to convert raw healthcare data into executive-level insights through
 - Dynamic filters: Risk Level, Admission Year, Coverage %                                                                  
 - Revenue & financial performance tracking                               
 - Patient behavior and operational insights                                                                                                            
-- Executive-ready layout and visuals                                                                                                                                                             
+- Executive-ready layout and visuals                                                                                                                                                                         
                                                                                                                                                                                              
 ## 💡 Business Insights                                                                                                                                                                                  
 - Identified major revenue contributors by insurance provider                                                                                                                                        
 - Revealed high-risk patient cost patterns                                                                                                                                  
 - Highlighted long-term admission and revenue trends                                                                                                                                                     
-- Supported data-driven healthcare decision making                                                                                                                                          
+- Supported data-driven healthcare decision making                                                                                                                                                                               
 
 ## 🚀 Future Improvements                                                                     
 - Add predictive admission forecasting                                                       
