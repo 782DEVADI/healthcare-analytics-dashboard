@@ -1,6 +1,6 @@
 # healthcare-analytics-dashboard                                                                                                                                                                            
-Healthcare financial & amp; patient analytics dashboard using Excel & amp; Power BI                                                                                                                                                                                                                                                                                                                                       
-# 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+Healthcare financial & amp; patient analytics dashboard using Excel & amp; Power BI                                                                                                                         
+# 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 **Author:** D Dev Aditya                                                                                                                                                                                
 **Tools:** Excel, Power BI                                                                                                                                                                                  
 **Domain:  ** Healthcare Analytics                                                                                                                                                                      
@@ -26,19 +26,19 @@ The goal is to convert raw healthcare data into executive-level insights through
 - Admission Trends (2019–2024)                                                                                                                                                           
 - Revenue by Insurance Provider                                                                                                                               
 - Patient Risk Distribution                                                                                                                                        
-- Medical Condition Breakdown                                             
+- Medical Condition Breakdown                                                                                 
 
-## 🖥️ Dashboard Features
-- Dynamic filters: Risk Level, Admission Year, Coverage %                                                                  
-- Revenue & financial performance tracking                               
+## 🖥️ Dashboard Features                                     
+- Dynamic filters: Risk Level, Admission Year, Coverage %                                                                                                                                 
+- Revenue & financial performance tracking                                                             
 - Patient behavior and operational insights                                                                                                            
-- Executive-ready layout and visuals                                                                                                                                                                         
+- Executive-ready layout and visuals                                                                                                                                                                      
                                                                                                                                                                                              
 ## 💡 Business Insights                                                                                                                                                                                  
 - Identified major revenue contributors by insurance provider                                                                                                                                        
 - Revealed high-risk patient cost patterns                                                                                                                                  
 - Highlighted long-term admission and revenue trends                                                                                                                                                     
-- Supported data-driven healthcare decision making                                                                                                                                                                               
+- Supported data-driven healthcare decision making                                                                                                                                                                                                                                 
 
 ## 🚀 Future Improvements                                                                     
 - Add predictive admission forecasting                                                       
