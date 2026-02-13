@@ -1,5 +1,5 @@
 # healthcare-analytics-dashboard                                                                                                                                                                            
-Healthcare financial & amp; patient analytics dashboard using Excel & amp; Power BI                                                                                                                         
+Healthcare financial & amp; patient analytics dashboard using Excel & amp; Power BI                                                                                                                      
 # 🏥 Healthcare Revenue & Patient Analytics Dashboard                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 **Author:** D Dev Aditya                                                                                                                                                                                
 **Tools:** Excel, Power BI                                                                                                                                                                                  
@@ -18,7 +18,7 @@ The goal is to convert raw healthcare data into executive-level insights through
   - Admission Year, Month                                                                                                                                                        
   - Coverage %                                                                                                                                                                                                       
   - Patient Paid                                                                                                                                                                 
-  - Risk Level Segments                                                                                                                    
+  - Risk Level Segments                                                                                                                                         
 
 ## 📊 Key KPIs                                                                       
 - Total Billing Revenue                                    
@@ -27,12 +27,12 @@ The goal is to convert raw healthcare data into executive-level insights through
 - Revenue by Insurance Provider                                                                                                                               
 - Patient Risk Distribution                                                                                                                                        
 - Medical Condition Breakdown                                                                                 
-
-## 🖥️ Dashboard Features                                     
-- Dynamic filters: Risk Level, Admission Year, Coverage %                                                                                                                                 
-- Revenue & financial performance tracking                                                             
-- Patient behavior and operational insights                                                                                                            
-- Executive-ready layout and visuals                                                                                                                                                                      
+                                   
+## 🖥️ Dashboard Features                                                              
+- Dynamic filters: Risk Level, Admission Year, Coverage %                                                                                                                                                      
+- Revenue & financial performance tracking                                                                           
+- Patient behavior and operational insights                                                                                                                             
+- Executive-ready layout and visuals                                                                                                                                                                    
                                                                                                                                                                                              
 ## 💡 Business Insights                                                                                                                                                                                  
 - Identified major revenue contributors by insurance provider                                                                                                                                        
